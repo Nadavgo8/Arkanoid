@@ -1,10 +1,4 @@
-// 209702745 Nadav Gonen
 
-/**
- * @author Nadav Gonen nadav.gonen1@live.biu.ac.il
- * @version 1.0
- * @since 2022-08-03
- */
 public class Velocity {
     private double dx = 0;
     private double dy = 0;
