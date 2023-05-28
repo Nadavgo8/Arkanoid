@@ -1,10 +1,4 @@
-// 209702745 Nadav Gonen
 
-/**
- * @author Nadav Gonen nadav.gonen1@live.biu.ac.il
- * @version 1.0
- * @since 2022-09-03
- */
 
 /**
  * A constructor.
