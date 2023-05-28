@@ -1,4 +1,3 @@
-// 209702745 Nadav Gonen
 
 import biuoop.DrawSurface;
 
