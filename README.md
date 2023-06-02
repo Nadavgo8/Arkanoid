@@ -23,7 +23,7 @@ The design patterns used were Observer, Decorater, and etc.
 
 **How to run**
 
-First of all, make sure you have ant, it'll make the whole process much simpler.
+First of all, make sure you have "ant", it'll make the whole process much simpler.
 Once that is done, open your terminal from the project's directory and enter:
 "ant compile"
 "ant run"
